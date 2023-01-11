@@ -1,0 +1,43 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Cory Sullivan",
+	"icon": "https://micro.blog/cory_sullivan/avatar.jpg",
+	"home_page_url": "https://sullivans.ca/",
+	"feed_url": "https://sullivans.ca/feed.json",
+	"items": [
+		
+			{
+				"id": "http://cory-sullivan.micro.blog/2023/01/08/finished-reading-fall.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101543559\">Fall of Giants (The Century Trilogy, Book 1)</a> by Ken Follett 📚\nThis book is very long, but I enjoyed it enough to start Book 2 in the series.</p>\n",
+				"content_text": "Finished reading: [Fall of Giants (The Century Trilogy, Book 1)](https://micro.blog/books/9781101543559) by Ken Follett 📚\r\nThis book is very long, but I enjoyed it enough to start Book 2 in the series. \n",
+				"date_published": "2023-01-08T15:29:04-04:00",
+				"url": "https://sullivans.ca/2023/01/08/finished-reading-fall.html"
+			},
+			{
+				"id": "http://cory-sullivan.micro.blog/2023/01/05/ive-been-an.html",
+				
+				"content_html": "<p>I&rsquo;ve been an iOS developer for almost a decade now and have had the opportunity to work on some really cool apps that millions of people have used. But I&rsquo;ve never released my own app until now. <a href=\"https://www.timestack.ca\">TimeStack</a> is in the final stages of beta testing and I&rsquo;m aiming to release it in the next few weeks. I&rsquo;m so excited to finally be able to share this project with everyone!</p>\n",
+				"content_text": "I've been an iOS developer for almost a decade now and have had the opportunity to work on some really cool apps that millions of people have used. But I've never released my own app until now. [TimeStack](https://www.timestack.ca) is in the final stages of beta testing and I'm aiming to release it in the next few weeks. I'm so excited to finally be able to share this project with everyone!\n",
+				"date_published": "2023-01-05T17:58:37-04:00",
+				"url": "https://sullivans.ca/2023/01/05/ive-been-an.html"
+			},
+			{
+				"id": "http://cory-sullivan.micro.blog/2023/01/03/should-the-pga.html",
+				"title": "Should the PGA Tour worry about LIV golf?",
+				"content_html": "<p>I have been a golf fan for many years, and I have always enjoyed watching some of the greatest players in the game, like Tiger Woods and Phil Mickelson, compete at the highest level. However, the recent emergence of the LIV golf tour has caused a lot of controversy and division within the sport.</p>\n<p>While many players have been attracted to the LIV tour because of the larger payouts, lighter schedule and relaxed rules, it is clear that this tour is primarily focused on the players and their financial gain, rather than the competitive spirit of the game. This is evident in comments from players like Harold Varner III and Pat Perez, who have openly stated that they are more interested in getting paid than in winning.  When Pat Perez was asked about his poor individual performance, despite being on the season-winning team, he commented <!-- raw HTML omitted -->‘I’m paid. I don’t give a damn’<!-- raw HTML omitted --></p>\n<p>This shift in focus has left many golf fans, like myself, feeling disillusioned and disconnected from the sport. It is hard to get excited about watching the top players compete when it seems like winning is not their top priority.</p>\n<p>Overall, while the decision to leave the traditional tours is personal, I still enjoy watching the top players compete and strive for victory on the PGA Tour.</p>\n",
+				"content_text": "I have been a golf fan for many years, and I have always enjoyed watching some of the greatest players in the game, like Tiger Woods and Phil Mickelson, compete at the highest level. However, the recent emergence of the LIV golf tour has caused a lot of controversy and division within the sport.\n\nWhile many players have been attracted to the LIV tour because of the larger payouts, lighter schedule and relaxed rules, it is clear that this tour is primarily focused on the players and their financial gain, rather than the competitive spirit of the game. This is evident in comments from players like Harold Varner III and Pat Perez, who have openly stated that they are more interested in getting paid than in winning.  When Pat Perez was asked about his poor individual performance, despite being on the season-winning team, he commented <a href=\"https://golf.com/news/liv-golf-biggest-winner-pat-perez/\">‘I’m paid. I don’t give a damn’</a>\n\nThis shift in focus has left many golf fans, like myself, feeling disillusioned and disconnected from the sport. It is hard to get excited about watching the top players compete when it seems like winning is not their top priority.\n\nOverall, while the decision to leave the traditional tours is personal, I still enjoy watching the top players compete and strive for victory on the PGA Tour.\n",
+				"date_published": "2023-01-03T20:56:24-04:00",
+				"url": "https://sullivans.ca/2023/01/03/should-the-pga.html"
+			},
+			{
+				"id": "http://cory-sullivan.micro.blog/2023/01/01/currently-reading-fall.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101543559\">Fall of Giants (The Century Trilogy, Book 1)</a> by Ken Follett 📚</p>\n",
+				"content_text": "Currently reading: [Fall of Giants (The Century Trilogy, Book 1)](https://micro.blog/books/9781101543559) by Ken Follett 📚\n",
+				"date_published": "2023-01-01T16:49:07-04:00",
+				"url": "https://sullivans.ca/2023/01/01/currently-reading-fall.html",
+				"tags": ["books"]
+			}
+	]
+}
