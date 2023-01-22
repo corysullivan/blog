@@ -25,6 +25,45 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://sullivans.ca/2023/01/22/it-was-a.html" class="u-url"><time class="dt-published" datetime="2023-01-22 11:09:46 -0400">Jan 22, 2023</time></a>
+
+		<div class="e-content">
+			 <p>It was a winter wonderland on Sugarloaf Mountain today. ❄️</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://sullivans.ca/2023/01/15/swift-logging.html">Swift Logging</a></h1>
+		
+
+		<a href="https://sullivans.ca/2023/01/15/swift-logging.html" class="u-url"><time class="dt-published" datetime="2023-01-15 20:24:32 -0400">Jan 15, 2023</time></a>
+
+		<div class="e-content">
+			 <p>As I previously mentioned, my new app <a href="https://sullivans.ca/2023/01/05/ive-been-an.html">TimeStack</a> is nearing its release date. One of the final tasks on my to-do list is to include the ability to send logs as part of a support request. This requires a solution for persisting logs locally so that they can be attached to an email. In the past, I have used third-party frameworks like <a href="https://github.com/CocoaLumberjack/CocoaLumberjack">CocoaLumberjack</a> to achieve this. However, I wanted to avoid adding another dependency and decided to test out Apple&rsquo;s OSLog framework. It includes the <a href="https://developer.apple.com/documentation/oslog/oslogstore">OSLogStore</a> feature, which retrieves an array of log entries. This seemed like an ideal solution for my needs, but as I discovered, it has some issues.</p>
+<p>Peter Steinberger conducted an in-depth examination of OSLogStore in his article <a href="https://steipete.com/posts/logging-in-swift/">&ldquo;Logging in Swift,&quot;</a> and highlighted its strengths and challenges. Despite initial issues, it appears that OSLogStore is now a reliable and robust tool for logging.</p>
+<p>Fetching entries is as simple as using OSLogStore <code>getEntries</code> function.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-swift" data-lang="swift">  <span style="color:#66d9ef">let</span> allEntries = <span style="color:#66d9ef">try</span> logStore.getEntries(
+    with: .reverse,
+    at: oneHourAgo,
+    matching: NSPredicate(format: <span style="color:#e6db74">&#34;subsystem = %@&#34;</span>, subsystem))
+}
+</code></pre></div><p>After implementing OSLogStore, I encountered several issues that caused concern. Firstly, logs were not being saved between app launches, and secondly, retrieving logs took an excessive amount of time. In particular, on two devices (iPhone 13 and iPhone XR), fetching logs consistently took over 10 seconds.</p>
+<!-- raw HTML omitted -->
+<p>Upon researching the issue, I found no similar complaints online. I reached out to Apple Technical Support for assistance, but the engineer could not provide a clear explanation. He did mention that the system log is optimized for writing, not reading and that the log size can vary significantly between devices, making it difficult to pinpoint the cause of the slow retrieval time.</p>
+<blockquote>
+<p>The system log is optimized for writing, not reading.</p>
+</blockquote>
+<p>Given the uncertainty surrounding the performance of OSLogStore, I decided to temporarily set it aside and re-evaluate it at the next WWDC conference.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://sullivans.ca/2023/01/08/finished-reading-fall.html" class="u-url"><time class="dt-published" datetime="2023-01-08 15:29:04 -0400">Jan 8, 2023</time></a>
 
 		<div class="e-content">
