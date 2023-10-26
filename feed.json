@@ -1,19 +1,11 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Cory Sullivan",
+	"title": "Sullivan's",
 	"icon": "https://micro.blog/cory_sullivan/avatar.jpg",
 	"home_page_url": "https://sullivans.ca/",
 	"feed_url": "https://sullivans.ca/feed.json",
 	"items": [
 		
-			{
-				"id": "http://cory-sullivan.micro.blog/2023/01/22/it-was-a.html",
-				
-				"content_html": "<p>It was a winter wonderland on Sugarloaf Mountain today. ❄️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It was a winter wonderland on Sugarloaf Mountain today. ❄️\n\n<img src=\"uploads/2023/d67baf30b3.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e3c7186a13.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-22T12:09:46-03:00",
-				"url": "https://sullivans.ca/2023/01/22/it-was-a.html"
-			},
 			{
 				"id": "http://cory-sullivan.micro.blog/2023/01/15/swift-logging.html",
 				"title": "Swift Logging",
