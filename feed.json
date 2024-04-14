@@ -14,31 +14,6 @@
 				"date_published": "2023-01-15T21:24:32-03:00",
 				"url": "https://sullivans.ca/2023/01/15/swift-logging.html",
 				"tags": ["software"]
-			},
-			{
-				"id": "http://cory-sullivan.micro.blog/2023/01/08/finished-reading-fall.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101543559\">Fall of Giants (The Century Trilogy, Book 1)</a> by Ken Follett 📚\nThis book is very long, but I enjoyed it enough to start Book 2 in the series.</p>\n",
-				"content_text": "Finished reading: [Fall of Giants (The Century Trilogy, Book 1)](https://micro.blog/books/9781101543559) by Ken Follett 📚\r\nThis book is very long, but I enjoyed it enough to start Book 2 in the series. \n",
-				"date_published": "2023-01-08T16:29:04-03:00",
-				"url": "https://sullivans.ca/2023/01/08/finished-reading-fall.html"
-			},
-			{
-				"id": "http://cory-sullivan.micro.blog/2023/01/05/ive-been-an.html",
-				
-				"content_html": "<p>I&rsquo;ve been an iOS developer for almost a decade now and have had the opportunity to work on some really cool apps that millions of people have used. But I&rsquo;ve never released my own app until now. <a href=\"https://www.timestack.ca\">TimeStack</a> is in the final stages of beta testing and I&rsquo;m aiming to release it in the next few weeks. I&rsquo;m so excited to finally be able to share this project with everyone!</p>\n",
-				"content_text": "I've been an iOS developer for almost a decade now and have had the opportunity to work on some really cool apps that millions of people have used. But I've never released my own app until now. [TimeStack](https://www.timestack.ca) is in the final stages of beta testing and I'm aiming to release it in the next few weeks. I'm so excited to finally be able to share this project with everyone!\n",
-				"date_published": "2023-01-05T18:58:37-03:00",
-				"url": "https://sullivans.ca/2023/01/05/ive-been-an.html"
-			},
-			{
-				"id": "http://cory-sullivan.micro.blog/2023/01/01/currently-reading-fall.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101543559\">Fall of Giants (The Century Trilogy, Book 1)</a> by Ken Follett 📚</p>\n",
-				"content_text": "Currently reading: [Fall of Giants (The Century Trilogy, Book 1)](https://micro.blog/books/9781101543559) by Ken Follett 📚\n",
-				"date_published": "2023-01-01T17:49:07-03:00",
-				"url": "https://sullivans.ca/2023/01/01/currently-reading-fall.html",
-				"tags": ["books"]
 			}
 	]
 }
